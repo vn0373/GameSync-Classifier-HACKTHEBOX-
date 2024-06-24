@@ -27,20 +27,9 @@ To get started with GameSync-Classifier, follow these steps:
     ```bash
     cd GameSync-Classifier-HACKTHEBOX
     ```
-
-3. Install the required dependencies:
+    
+3. Download the UCF 101 dataset and place it in the designated directory:
     ```bash
-    pip install -r requirements.txt
+    # The datset is already present in the directory
     ```
 
-4. Download the UCF 101 dataset and place it in the designated directory:
-    ```bash
-    # Follow instructions on the UCF 101 dataset website to download and extract the dataset
-    ```
-
-## Usage
-
-To train and evaluate the GameSync-Classifier model, run the following command:
-
-```bash
-python train.py --dataset_path /path/to/UCF101 --epochs 50 --batch_size 32
