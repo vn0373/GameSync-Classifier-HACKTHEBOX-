@@ -25,7 +25,7 @@ To get started with GameSync-Classifier, follow these steps:
 
 2. Navigate to the project directory:
     ```bash
-    cd GameSync-Classifier
+    cd GameSync-Classifier-HACKTHEBOX
     ```
 
 3. Install the required dependencies:
